@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jin Ko
 
 You can use the [editor on GitHub](https://github.com/Jin-coder/jin-coder.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
